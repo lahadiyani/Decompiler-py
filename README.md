@@ -60,4 +60,3 @@ Kontribusi sangat diterima! Jika Anda ingin berkontribusi pada proyek ini, silak
 ## Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan lihat file `LICENSE` untuk informasi lebih lanjut.
-```
