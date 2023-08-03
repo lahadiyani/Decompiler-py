@@ -13,8 +13,10 @@ Program ini adalah sebuah skrip Python sederhana yang dapat melakukan enkripsi d
 
 3. Jalankan program menggunakan Python di terminal atau command prompt:
 
-```
+
 python nama_program.py
+
+```
 ```
 
 4. Pilih opsi untuk melakukan enkripsi atau dekripsi.
