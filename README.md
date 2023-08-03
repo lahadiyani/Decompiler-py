@@ -13,7 +13,7 @@ Program ini adalah sebuah skrip Python sederhana yang dapat melakukan enkripsi d
 
 3. Jalankan program menggunakan Python di terminal atau command prompt:
 
-```bash
+```
 python nama_program.py
 ```
 
