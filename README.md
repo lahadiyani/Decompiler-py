@@ -17,6 +17,12 @@ Program ini adalah sebuah skrip Python sederhana yang dapat melakukan enkripsi d
 python nama_program.py
 
 ```
+
+![Image 1](https://github.com/lahadiyani/Decompiler-py/blob/main/IMG/Screenshot_20230803_202044.jpg)
+![Image 2](https://github.com/lahadiyani/Decompiler-py/blob/main/IMG/Screenshot_20230803_202100.jpg)
+
+
+
 ```
 
 4. Pilih opsi untuk melakukan enkripsi atau dekripsi.
